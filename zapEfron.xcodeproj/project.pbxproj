@@ -3,27 +3,47 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A8357D16BDC0C07BC47B4D1E /* Pods_zapEfron.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0197198FAF821ABF732503C6 /* Pods_zapEfron.framework */; };
+		DB78301225C0717600CF47C3 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = DB78301125C0717600CF47C3 /* GoogleService-Info.plist */; };
 		DB8955B025BF4A1100741CA6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB8955AF25BF4A1100741CA6 /* AppDelegate.swift */; };
 		DB8955B225BF4A1100741CA6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB8955B125BF4A1100741CA6 /* SceneDelegate.swift */; };
-		DB8955B425BF4A1100741CA6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB8955B325BF4A1100741CA6 /* ViewController.swift */; };
 		DB8955B725BF4A1100741CA6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DB8955B525BF4A1100741CA6 /* Main.storyboard */; };
 		DB8955B925BF4A1200741CA6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DB8955B825BF4A1200741CA6 /* Assets.xcassets */; };
 		DB8955BC25BF4A1200741CA6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DB8955BA25BF4A1200741CA6 /* LaunchScreen.storyboard */; };
+		DB8955C825BF4A7700741CA6 /* Message.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB8955C725BF4A7700741CA6 /* Message.swift */; };
+		DB8955CC25BF4AA300741CA6 /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB8955CB25BF4AA300741CA6 /* WelcomeViewController.swift */; };
+		DB8955CF25BF4AAF00741CA6 /* RegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB8955CE25BF4AAF00741CA6 /* RegisterViewController.swift */; };
+		DB8955D225BF4AC300741CA6 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB8955D125BF4AC300741CA6 /* LoginViewController.swift */; };
+		DB8955D525BF4ACF00741CA6 /* ChatViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB8955D425BF4ACF00741CA6 /* ChatViewController.swift */; };
+		DB8955DA25BF4CFE00741CA6 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB8955D825BF4CFE00741CA6 /* TableViewCell.swift */; };
+		DB8955DB25BF4CFE00741CA6 /* TableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = DB8955D925BF4CFE00741CA6 /* TableViewCell.xib */; };
+		DB8955F225BF533F00741CA6 /* K.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB8955F125BF533F00741CA6 /* K.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0197198FAF821ABF732503C6 /* Pods_zapEfron.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_zapEfron.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		877C8AEAA148D1BC195974A7 /* Pods-zapEfron.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-zapEfron.debug.xcconfig"; path = "Target Support Files/Pods-zapEfron/Pods-zapEfron.debug.xcconfig"; sourceTree = "<group>"; };
+		C1A504AC775F59F982CBF7E9 /* Pods-zapEfron.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-zapEfron.release.xcconfig"; path = "Target Support Files/Pods-zapEfron/Pods-zapEfron.release.xcconfig"; sourceTree = "<group>"; };
+		DB78301125C0717600CF47C3 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		DB8955AC25BF4A1100741CA6 /* zapEfron.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = zapEfron.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DB8955AF25BF4A1100741CA6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DB8955B125BF4A1100741CA6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		DB8955B325BF4A1100741CA6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		DB8955B625BF4A1100741CA6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		DB8955B825BF4A1200741CA6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DB8955BB25BF4A1200741CA6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DB8955BD25BF4A1200741CA6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DB8955C725BF4A7700741CA6 /* Message.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Message.swift; sourceTree = "<group>"; };
+		DB8955CB25BF4AA300741CA6 /* WelcomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeViewController.swift; sourceTree = "<group>"; };
+		DB8955CE25BF4AAF00741CA6 /* RegisterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewController.swift; sourceTree = "<group>"; };
+		DB8955D125BF4AC300741CA6 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		DB8955D425BF4ACF00741CA6 /* ChatViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatViewController.swift; sourceTree = "<group>"; };
+		DB8955D825BF4CFE00741CA6 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
+		DB8955D925BF4CFE00741CA6 /* TableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TableViewCell.xib; sourceTree = "<group>"; };
+		DB8955F125BF533F00741CA6 /* K.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = K.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,17 +51,37 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A8357D16BDC0C07BC47B4D1E /* Pods_zapEfron.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		22E0F13FA99477BBD70903B5 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				877C8AEAA148D1BC195974A7 /* Pods-zapEfron.debug.xcconfig */,
+				C1A504AC775F59F982CBF7E9 /* Pods-zapEfron.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		A4408884B6B3D3A4C787E91C /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				0197198FAF821ABF732503C6 /* Pods_zapEfron.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		DB8955A325BF4A1100741CA6 = {
 			isa = PBXGroup;
 			children = (
 				DB8955AE25BF4A1100741CA6 /* zapEfron */,
 				DB8955AD25BF4A1100741CA6 /* Products */,
+				22E0F13FA99477BBD70903B5 /* Pods */,
+				A4408884B6B3D3A4C787E91C /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -58,13 +98,45 @@
 			children = (
 				DB8955AF25BF4A1100741CA6 /* AppDelegate.swift */,
 				DB8955B125BF4A1100741CA6 /* SceneDelegate.swift */,
-				DB8955B325BF4A1100741CA6 /* ViewController.swift */,
-				DB8955B525BF4A1100741CA6 /* Main.storyboard */,
+				DB78301125C0717600CF47C3 /* GoogleService-Info.plist */,
+				DB8955C425BF4A1F00741CA6 /* Models */,
+				DB8955C525BF4A2900741CA6 /* Views */,
+				DB8955C625BF4A3000741CA6 /* Controllers */,
 				DB8955B825BF4A1200741CA6 /* Assets.xcassets */,
 				DB8955BA25BF4A1200741CA6 /* LaunchScreen.storyboard */,
 				DB8955BD25BF4A1200741CA6 /* Info.plist */,
+				DB8955F125BF533F00741CA6 /* K.swift */,
 			);
 			path = zapEfron;
+			sourceTree = "<group>";
+		};
+		DB8955C425BF4A1F00741CA6 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				DB8955C725BF4A7700741CA6 /* Message.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		DB8955C525BF4A2900741CA6 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				DB8955B525BF4A1100741CA6 /* Main.storyboard */,
+				DB8955D825BF4CFE00741CA6 /* TableViewCell.swift */,
+				DB8955D925BF4CFE00741CA6 /* TableViewCell.xib */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		DB8955C625BF4A3000741CA6 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				DB8955CB25BF4AA300741CA6 /* WelcomeViewController.swift */,
+				DB8955CE25BF4AAF00741CA6 /* RegisterViewController.swift */,
+				DB8955D125BF4AC300741CA6 /* LoginViewController.swift */,
+				DB8955D425BF4ACF00741CA6 /* ChatViewController.swift */,
+			);
+			path = Controllers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -74,9 +146,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = DB8955C025BF4A1200741CA6 /* Build configuration list for PBXNativeTarget "zapEfron" */;
 			buildPhases = (
+				A2A8EA4D8512A5840EDEF3FC /* [CP] Check Pods Manifest.lock */,
 				DB8955A825BF4A1100741CA6 /* Sources */,
 				DB8955A925BF4A1100741CA6 /* Frameworks */,
 				DB8955AA25BF4A1100741CA6 /* Resources */,
+				A249217CCC56EFB47B2CC388 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -125,6 +199,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				DB8955BC25BF4A1200741CA6 /* LaunchScreen.storyboard in Resources */,
+				DB8955DB25BF4CFE00741CA6 /* TableViewCell.xib in Resources */,
+				DB78301225C0717600CF47C3 /* GoogleService-Info.plist in Resources */,
 				DB8955B925BF4A1200741CA6 /* Assets.xcassets in Resources */,
 				DB8955B725BF4A1100741CA6 /* Main.storyboard in Resources */,
 			);
@@ -132,12 +208,60 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		A249217CCC56EFB47B2CC388 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-zapEfron/Pods-zapEfron-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-zapEfron/Pods-zapEfron-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-zapEfron/Pods-zapEfron-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		A2A8EA4D8512A5840EDEF3FC /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-zapEfron-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		DB8955A825BF4A1100741CA6 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DB8955B425BF4A1100741CA6 /* ViewController.swift in Sources */,
+				DB8955F225BF533F00741CA6 /* K.swift in Sources */,
+				DB8955D225BF4AC300741CA6 /* LoginViewController.swift in Sources */,
+				DB8955DA25BF4CFE00741CA6 /* TableViewCell.swift in Sources */,
+				DB8955D525BF4ACF00741CA6 /* ChatViewController.swift in Sources */,
+				DB8955CC25BF4AA300741CA6 /* WelcomeViewController.swift in Sources */,
+				DB8955C825BF4A7700741CA6 /* Message.swift in Sources */,
+				DB8955CF25BF4AAF00741CA6 /* RegisterViewController.swift in Sources */,
 				DB8955B025BF4A1100741CA6 /* AppDelegate.swift in Sources */,
 				DB8955B225BF4A1100741CA6 /* SceneDelegate.swift in Sources */,
 			);
@@ -283,6 +407,7 @@
 		};
 		DB8955C125BF4A1200741CA6 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 877C8AEAA148D1BC195974A7 /* Pods-zapEfron.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -302,6 +427,7 @@
 		};
 		DB8955C225BF4A1200741CA6 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = C1A504AC775F59F982CBF7E9 /* Pods-zapEfron.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
