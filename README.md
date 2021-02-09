@@ -2,8 +2,10 @@
 
 # Descrição
  Esse projeto foi feito com a intenção de experimentar e praticar com arquivos JSON e ver como eles se relacionam com um banco de dados em tempo real, e para isso, foi criado um app de mensagens instantânea coletiva; ZapEfron. Qualquer usuário novo que se registrar receberá as mensagens antigas entre os usuários e também, poderá mandar e receber mensagens novas em tempo real.
+ 
 # Vídeos
 
+ ![][ReadME.gif]
 
 # Instalação
 
