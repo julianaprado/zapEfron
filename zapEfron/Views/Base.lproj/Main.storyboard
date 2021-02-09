@@ -181,10 +181,10 @@
             </objects>
             <point key="canvasLocation" x="735" y="481"/>
         </scene>
-        <!--Register To Chat-->
+        <!--Register View Controller-->
         <scene sceneID="8xl-f9-6U3">
             <objects>
-                <viewController id="sT1-Yb-DDj" customClass="RegisterToChat" sceneMemberID="viewController">
+                <viewController id="sT1-Yb-DDj" customClass="RegisterViewController" customModule="zapEfron" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Asy-xT-Abu">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
