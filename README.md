@@ -5,7 +5,7 @@
  
 # Vídeos
 
- ![zapEfron-gif][https://github.com/julianaprado/zapEfron/blob/main/ReadME.gif]
+ ![zapEfron-gif](https://github.com/julianaprado/zapEfron/blob/main/ReadME.gif)
 
 # Instalação
 
