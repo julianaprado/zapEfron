@@ -1,15 +1,16 @@
 # ZapEfron
 
 # Descrição
-    Esse projeto foi feito com a intenção de experimentar e praticar com arquivos JSON e ver como eles se relacionam com um banco de dados em tempo real, e para isso, foi criado um app de mensagens instantânea coletiva; ZapEfron. Qualquer usuário novo que se registrar receberá as mensagens antigas entre os usuários e também, poderá mandar e receber mensagens novas em tempo real.
+ Esse projeto foi feito com a intenção de experimentar e praticar com arquivos JSON e ver como eles se relacionam com um banco de dados em tempo real, e para isso, foi criado um app de mensagens instantânea coletiva; ZapEfron. Qualquer usuário novo que se registrar receberá as mensagens antigas entre os usuários e também, poderá mandar e receber mensagens novas em tempo real.
 # Vídeos
 
 
 # Instalação
-    Cloud Firestore (Firebase) foi a melhor opção de banco de dados para esse projeto, então para isso, precisamos instalar o banco de dados. É muito importante ler com calma cada passo para não se perder entre eles pois isso pode causar **muita dor de cabeça.** 
+
+Cloud Firestore (Firebase) foi a melhor opção de banco de dados para esse projeto, então para isso, precisamos instalar o banco de dados. É muito importante ler com calma cada passo para não se perder entre eles pois isso pode causar **muita dor de cabeça.** 
 
 
-    Então vamos com calma:
+Então vamos com calma:
         1.  [Instale o Cocoapods no seu projeto.](https://www.dropbox.com/scl/fi/eh9cqwcpr7ir6nieq4bhc/ZapEfron.paper?dl=0&rlkey=t1z9vgb1sum1bdt80xehltewp#:uid=790947013060506255912899&h2=Cocoapods:)
         2. [Crie seu projeto no Console do Firebase.](https://www.dropbox.com/scl/fi/eh9cqwcpr7ir6nieq4bhc/ZapEfron.paper?dl=0&rlkey=t1z9vgb1sum1bdt80xehltewp#:uid=050347646413827091718536&h2=Projeto-no-Firebase)
         3. [Instale o Firebase usando Cocoapods.](https://www.dropbox.com/scl/fi/eh9cqwcpr7ir6nieq4bhc/ZapEfron.paper?dl=0&rlkey=t1z9vgb1sum1bdt80xehltewp#:uid=025865633098635770853301&h2=Firebase)
