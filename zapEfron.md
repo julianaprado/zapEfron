@@ -3,7 +3,7 @@
 # Descrição
     Esse projeto foi feito com a intenção de experimentar e praticar com arquivos JSON e ver como eles se relacionam com um banco de dados em tempo real, e para isso, foi criado um app de mensagens instantânea coletiva; ZapEfron. Qualquer usuário novo que se registrar receberá as mensagens antigas entre os usuários e também, poderá mandar e receber mensagens novas em tempo real.
 # Vídeos
-![](https://paper-attachments.dropbox.com/s_6843BFE87326B98B08962B1F73B7799C4E6370D454988C13D6EB8A8618603335_1612378131677_ReadME.gif)
+
 
 # Instalação
     Cloud Firestore (Firebase) foi a melhor opção de banco de dados para esse projeto, então para isso, precisamos instalar o banco de dados. É muito importante ler com calma cada passo para não se perder entre eles pois isso pode causar **muita dor de cabeça.** 
