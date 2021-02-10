@@ -102,7 +102,7 @@ Dentro do Xcode, copie o código do seu projeto que fica no Bundle Identifier:
 ![](https://paper-attachments.dropbox.com/s_6843BFE87326B98B08962B1F73B7799C4E6370D454988C13D6EB8A8618603335_1612466041591_Screen+Shot+2021-02-04+at+16.13.58.png)
 
 
-E cole no Código do pacote do iOS:
+E cole no `Código do pacote do iOS`:
 
 ![](https://paper-attachments.dropbox.com/s_6843BFE87326B98B08962B1F73B7799C4E6370D454988C13D6EB8A8618603335_1612466246075_Screen+Shot+2021-02-04+at+16.17.22.png)
 
