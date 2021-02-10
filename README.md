@@ -245,7 +245,7 @@ Caso você encontre este erro aqui:
 
 1. Dentro da pasta `DerivedData` apague a pasta do seu projeto.
 2. Feche o Xcode e abra novamente. 
-3. Limpe o seu projeto com  ****`Shift ⇧ + cmd ⌘ + k`
+3. Limpe o seu projeto com `Shift ⇧ + cmd ⌘ + k`
 4. Faça o build `cmd ⌘ + b`
 5. Abra seu storyboard.
 6. Vá em `Editor > Refresh all views`.
