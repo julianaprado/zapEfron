@@ -13,10 +13,10 @@ Cloud Firestore (Firebase) foi a melhor opção de banco de dados para esse proj
 
 
 Então vamos com calma:
-        1. Instale o Cocoapods no seu projeto.
-        2. Crie seu projeto no Console do Firebase.
-        3. Instale o Firebase usando Cocoapods.
-        4. Cire seu banco de dados no Cloud Firestore.
+1. Instale o Cocoapods no seu projeto.
+2. Crie seu projeto no Console do Firebase.
+3. Instale o Firebase usando Cocoapods.
+4. Cire seu banco de dados no Cloud Firestore.
 
 
 ## Cocoapods:
