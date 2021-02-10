@@ -13,10 +13,10 @@ Cloud Firestore (Firebase) foi a melhor opção de banco de dados para esse proj
 
 
 Então vamos com calma:
-        1.  [Instale o Cocoapods no seu projeto.](https://www.dropbox.com/scl/fi/eh9cqwcpr7ir6nieq4bhc/ZapEfron.paper?dl=0&rlkey=t1z9vgb1sum1bdt80xehltewp#:uid=790947013060506255912899&h2=Cocoapods:)
-        2. [Crie seu projeto no Console do Firebase.](https://www.dropbox.com/scl/fi/eh9cqwcpr7ir6nieq4bhc/ZapEfron.paper?dl=0&rlkey=t1z9vgb1sum1bdt80xehltewp#:uid=050347646413827091718536&h2=Projeto-no-Firebase)
-        3. [Instale o Firebase usando Cocoapods.](https://www.dropbox.com/scl/fi/eh9cqwcpr7ir6nieq4bhc/ZapEfron.paper?dl=0&rlkey=t1z9vgb1sum1bdt80xehltewp#:uid=025865633098635770853301&h2=Firebase)
-        4. [Cire seu banco de dados no Cloud Firestore.](https://www.dropbox.com/scl/fi/eh9cqwcpr7ir6nieq4bhc/ZapEfron.paper?dl=0&rlkey=t1z9vgb1sum1bdt80xehltewp#:uid=412992551665426557427469&h2=Cloud-Firestore)
+        1. Instale o Cocoapods no seu projeto.
+        2. Crie seu projeto no Console do Firebase.
+        3. Instale o Firebase usando Cocoapods.
+        4. Cire seu banco de dados no Cloud Firestore.
 
 
 ## Cocoapods:
