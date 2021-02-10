@@ -38,7 +38,7 @@ Caso tenha encontrado erros ou queira tirar dúvidas, acesse o site do Cocoapods
 
 1. Vá no `Console do Firebase` e clique em adicionar projeto.
 2. Dê um nome ao seu projeto.
-3. Clique para desativar `Ativar o Google Analytics neste projeto` ****e continue.
+3. Clique para desativar `Ativar o Google Analytics neste projeto` e continue.
 
 Caso tenha encontrado erros ou queira tirar dúvidas ou saber mais sobre o Firebase, é altamente recomendado ler a documentação completa no [site](https://firebase.google.com/docs/ios/setup?authuser=0).
 
